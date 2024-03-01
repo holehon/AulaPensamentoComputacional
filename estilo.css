@@ -1,0 +1,24 @@
+body {
+    background-color:lightblue;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: rgb(209, 129, 24);
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+.vermelho {
+    color: rgb(231, 70, 70);
+}
+
+.texto-centrlizado{
+    text-align: center;
+    font-style: italic;
+    color: blueviolet;
+    text-size-adjust: 35px;
+}
